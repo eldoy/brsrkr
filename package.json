@@ -1,7 +1,7 @@
 {
   "name": "brsrkr",
-  "version": "0.1.0",
-  "description": "Tiny Javascript HTML and DOM manipulation library, jQuery style.",
+  "version": "0.1.1",
+  "description": "Tiny Javascript HTML and DOM manipulation library, encapsulation style.",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch"
